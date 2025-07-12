@@ -1,6 +1,6 @@
 # 🎮 NaubaneJky
 
-`Digital Craftsman (Developer/Creator)`
+**`Digital Craftsman (Developer/Creator)`**
 
 
 Hi 👋, I'm Nabhan Zaki a.k.a NaubaneJky, aa self-driven learner passionate about programming and tech. Right now, I’m focused on improving my coding skills.</h4>

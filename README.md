@@ -1,8 +1,10 @@
-<h1>🎮 NaubaneJky</h1>
+# 🎮 NaubaneJky
 
-<h4 align="left">Hi 👋, I'm Nabhan Zaki a.k.a NaubaneJky, aa self-driven learner passionate about programming and tech. Right now, I’m focused on improving my coding skills.</h4>
-<h4 align="left">I enjoy exploring new tools, learning different programming languages, and building small projects as part of my growth. For me, learning doesn’t have to be perfect—as long as I stay curious and consistent.</h4>
+`Digital Craftsman (Developer/Creator)`
 
+
+Hi 👋, I'm Nabhan Zaki a.k.a NaubaneJky, aa self-driven learner passionate about programming and tech. Right now, I’m focused on improving my coding skills.</h4>
+I enjoy exploring new tools, learning different programming languages, and building small projects as part of my growth. For me, learning doesn’t have to be perfect—as long as I stay curious and consistent.
 <hr/>
 
 # 💻 Tech Stack:
@@ -16,5 +18,5 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=NaubaneJky&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

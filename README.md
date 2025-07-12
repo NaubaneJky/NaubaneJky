@@ -3,8 +3,13 @@
 **`Digital Craftsman (Developer/Creator)`**
 
 
-Hi 👋, I'm Nabhan Zaki a.k.a NaubaneJky, aa self-driven learner passionate about programming and tech. Right now, I’m focused on improving my coding skills.</h4>
-I enjoy exploring new tools, learning different programming languages, and building small projects as part of my growth. For me, learning doesn’t have to be perfect—as long as I stay curious and consistent.
+Hi 👋, I'm Nabhan Zaki a.k.a NaubaneJky, a self-driven learner passionate about programming and tech.
+
+I’m focused on improving my coding skills. I enjoy exploring new tools, learning different programming languages, and building small projects as part of my growth. For me, learning doesn’t have to be perfect—as long as I stay curious and consistent.
+
+Let’s connect if you're into tech, programming talk, or open to collaboration!
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/NabhanZaki ) 
 <hr/>
 
 # 💻 Tech Stack:

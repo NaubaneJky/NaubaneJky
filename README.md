@@ -1,3 +1,5 @@
+<h1>NaubaneJky</h1>
+<tr>
 <h3 align="left">Hi 👋, I'm Nabhan Zaki a.k.a Naubane.jky</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naubanejky" alt="naubanejky" /></a> </p>
 

@@ -1,4 +1,4 @@
-# 🎮 NaubaneJky
+# 🌐 NaubaneJky
 
 **`Digital Craftsman (Developer/Creator)`**
 

@@ -11,7 +11,7 @@ Let’s connect if you're into tech, programming talk, or open to collaboration!
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/NabhanZaki ) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/naubanejky)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCemgq3eX4r65VzoUI6jaZIg) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@kinghannz9707?si=lMiGJNgNZUfUuJbT) 
 <hr/>
 
 ## 💻 Tech Stack:

@@ -13,7 +13,7 @@ Let’s connect if you're into tech, programming talk, or open to collaboration!
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/naubanejky)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@kinghannz9707?si=lMiGJNgNZUfUuJbT)
 
-📫 reach me at muhammadnabhanzaki2008@gmail.com
+Contact me : muhammadnabhanzaki2008@gmail.com
 <hr/>
 
 ## 💻 Tech Stack:

@@ -1,4 +1,7 @@
+
+
 <h1 align="center">
+    <img src="https://github.com/NaubaneJky/NaubaneJky/blob/main/hina_chouno.gif" alt="Banner of a developer sitting in front of a desk">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Naubane+Jky!;" />
 </h1>
 

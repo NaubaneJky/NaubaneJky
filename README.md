@@ -1,11 +1,13 @@
-
+<p align="center">
+    <img src="https://github.com/NaubaneJky/NaubaneJky/blob/main/png_directory/hina_chouno.png" alt="My wife">
+</p>
 
 <h1 align="center">
-    <img src="https://github.com/NaubaneJky/NaubaneJky/blob/main/hina_chouno.gif" alt="Banner of a developer sitting in front of a desk">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Naubane+Jky!;" />
 </h1>
 
 **`Digital Craftsman (Developer/Creator)`**
+
 
 <br>
 
@@ -35,7 +37,7 @@ Contact me : muhammadnabhanzaki2008@gmail.com
 
 <br>
 
-## ⚡️ Stats
+## ⚡️ My Stats
 
 <br>
 
@@ -47,9 +49,10 @@ Contact me : muhammadnabhanzaki2008@gmail.com
 
 <br>
 
-## 🎮 GitHub Activity:
+## 🎮 My GitHub Activity:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NaubaneJky/NaubaneJky/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NaubaneJky/NaubaneJky/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/NaubaneJky/NaubaneJky/output/pacman-contribution-graph.svg">
 </picture>
+

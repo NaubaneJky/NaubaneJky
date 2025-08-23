@@ -24,9 +24,12 @@ Contact me : muhammadnabhanzaki2008@gmail.com
 ![](https://nirzak-streak-stats.vercel.app/?user=NaubaneJky&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NaubaneJky&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=NaubaneJky&limit=5&theme=transparent&hide_border=false&combine_all_yearly_contributions=true)
+
 ## 🕑 Git Hub Activity:
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nextraile/Nextraile/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nextraile/Nextraile/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Nextraile/Nextraile/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NaubaneJky/NaubaneJky/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NaubaneJky/NaubaneJky/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/NaubaneJky/NaubaneJky/output/pacman-contribution-graph.svg">
 </picture>

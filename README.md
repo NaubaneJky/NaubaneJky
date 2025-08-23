@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/NaubaneJky/NaubaneJky/blob/main/png_directory/hina_chouno.png" alt="This is my wife">
+    <img src="https://github.com/NaubaneJky/NaubaneJky/blob/main/png_directory/hina-chii.png" alt="This is my wife">
 </p>
 
 <h1 align="center">

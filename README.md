@@ -62,7 +62,7 @@
 
 <div align="center">
     <h2>✍️ Dev Randon Motivation Quotes</h2>
-    <img width="850" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border_radius=10">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border_radius=10">
 </div>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>

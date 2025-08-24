@@ -41,11 +41,11 @@ Contact me : **[Click Here](https://mail.google.com/mail/u/0/#search/muhammadnab
 <br>
 
 <div align=center>
-  <img width=370 src="https://github-readme-stats.vercel.app/api?username=naubaneJky&theme=transparent&count_private=true&border_radius=10&show_icons=true&rank_icon=github&locale=en" alt="NaubaneJky's GitHub Stats" />
+  <img width=370 src="https://github-readme-stats.vercel.app/api?username=naubaneJky&theme=transparent&count_private=true&border_radius=10&show_icons=true&locale=en" alt="NaubaneJky's GitHub Stats" />
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=NaubaneJky&theme=transparent&count_private=true&border_radius=10&locale=en" alt="NaubaneJky" />
   <img width=300 src="https://github-readme-stats.vercel.app/api/top-langs?username=NaubaneJky&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="NaubaneJky's Most Used Languages" />
 </div>
-
+p
 <br>
 
 ## 🔝 Top Contributed Repo
@@ -68,3 +68,9 @@ Contact me : **[Click Here](https://mail.google.com/mail/u/0/#search/muhammadnab
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/NaubaneJky/NaubaneJky/output/pacman-contribution-graph.svg">
 </picture>
 
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+<div align=center>
+    <h2>What are you looking for here?</h2>
+    <img src="https://github.com/NaubaneJky/NaubaneJky/blob/main/gif_directory/hina_chouno.gif" alt="Hina Peek">
+</div>

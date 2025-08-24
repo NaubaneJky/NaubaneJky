@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github.com/NaubaneJky/NaubaneJky/blob/main/png_directory/hina-chii.png" alt="This is my wife"><hr>
+    <img width="1000" src="https://github.com/NaubaneJky/NaubaneJky/blob/main/gif_directory/hina_thumb_up.gif"><hr>
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Naubane+Jky!;" />
 </div>
 

@@ -1,6 +1,6 @@
 <div align="center">
     <img width="1000" src="https://github.com/NaubaneJky/NaubaneJky/blob/main/gif_directory/hina_thumb_up.gif"><hr>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Naubane+Jky!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=40&center=true&vCenter=true&width=700&height=70&color=4493F8&duration=4000&lines=Hello+World!+👋;I'm+Naubane+Jky+(Nabhan+Zaki);Welcome+to+my+GitHub+Profile!" />
 </div>
 
 ---

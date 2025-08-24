@@ -14,7 +14,7 @@ Hi 👋, I'm Nabhan Zaki a.k.a NaubaneJky, a self-driven learner passionate abou
 
 I’m focused on improving my coding skills. I enjoy exploring new tools, learning different programming languages, and building small projects as part of my growth. For me, learning doesn’t have to be perfect—as long as I stay curious and consistent.
 
-Let’s connect if you're into **tech, programming talk, or open to collaboration! [here](https://github.com/NaubaneJky/NaubaneJky/issues/1)**
+Let’s connect if you're into **tech, programming talk, or open to collaboration! [Click Here](https://github.com/NaubaneJky/NaubaneJky/issues/1)**
 
 <br>
 
@@ -22,7 +22,7 @@ Let’s connect if you're into **tech, programming talk, or open to collaboratio
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/naubanejky)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@naubane_jky?si=deSebBj9JrIXydLI)
 
-Contact me : muhammadnabhanzaki2008@gmail.com
+Contact me : **[Click Here](https://mail.google.com/mail/u/0/#search/muhammadnabhanzaki2008%40gmail.com)**
 
 <br>
 

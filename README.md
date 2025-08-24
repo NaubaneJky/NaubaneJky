@@ -68,6 +68,6 @@
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <div align=center>
-    <h2>What are you looking for here?</h2>
+    <h2>👀 What are you looking for here?</h2>
     <img src="https://github.com/NaubaneJky/NaubaneJky/blob/main/gif_directory/hina_chouno.gif" alt="Hina Peek" width="1000">
 </div>

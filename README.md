@@ -16,8 +16,6 @@
 
 </div>
 
-
-
 <br>
 
 <div align="center">
@@ -59,6 +57,13 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NaubaneJky/NaubaneJky/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/NaubaneJky/NaubaneJky/output/pacman-contribution-graph.svg">
 </picture>
+
+<br><br>
+
+<div align="center">
+    <h2>✍️ Dev Randon Motivation Quotes</h2>
+    <img width="850" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border_radius=10">
+</div>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 

@@ -38,7 +38,7 @@
 <br><br>
 
 <div align=center>
-    <h2>⚡My Stats</h2>>
+    <h2>⚡My Stats</h2>
   <img width=370 src="https://github-readme-stats.vercel.app/api?username=naubaneJky&theme=transparent&count_private=true&border_radius=10&show_icons=true&locale=en" alt="NaubaneJky's GitHub Stats" />
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=NaubaneJky&theme=transparent&count_private=true&border_radius=10&locale=en" alt="NaubaneJky" />
   <img width=300 src="https://github-readme-stats.vercel.app/api/top-langs?username=NaubaneJky&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="NaubaneJky's Most Used Languages" />

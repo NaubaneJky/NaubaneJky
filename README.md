@@ -1,5 +1,6 @@
+---
+
 <div align="center">
-    <img width="1000" src="https://github.com/NaubaneJky/NaubaneJky/blob/main/gif_directory/hina_thumb_up.gif"><hr>
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=40&center=true&vCenter=true&width=700&height=70&color=4493F8&duration=4000&lines=Hello+World!+👋;I'm+Naubane+Jky+(Nabhan+Zaki);Welcome+to+my+GitHub+Profile!" />
 </div>
 
@@ -39,7 +40,7 @@
     <h2>⚡My Stats</h2>
   <img width=370 src="https://github-readme-stats.vercel.app/api?username=naubaneJky&theme=transparent&count_private=true&border_radius=10&show_icons=true&locale=en" alt="NaubaneJky's GitHub Stats" />
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=NaubaneJky&theme=transparent&count_private=true&border_radius=10&locale=en" alt="NaubaneJky" />
-  <img width=300 src="https://github-readme-stats.vercel.app/api/top-langs?username=NaubaneJky&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="NaubaneJky's Most Used Languages" />
+  <img width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaubaneJky&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="NaubaneJky's Most Used Languages" />
 </div>
 
 <br><br>
@@ -57,13 +58,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NaubaneJky/NaubaneJky/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/NaubaneJky/NaubaneJky/output/pacman-contribution-graph.svg">
 </picture>
-
-<br><br>
-
-<div align="center">
-    <h2>✍️ Dev Randon Motivation Quotes</h2>
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border_radius=10">
-</div>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 

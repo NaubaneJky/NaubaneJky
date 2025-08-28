@@ -1,4 +1,3 @@
----
 
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=40&center=true&vCenter=true&width=700&height=70&color=4493F8&duration=4000&lines=Hello+World!+👋;I'm+Naubane+Jky+(Nabhan+Zaki);Welcome+to+my+GitHub+Profile!" />

@@ -33,31 +33,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,unity,laravel,mysql,py,php,cs,kotlin,java" />
 </div>
 
-<br><br>
-
-<div align=center>
-    <h2>⚡My Stats</h2>
-  <img width=370 src="https://github-readme-stats.vercel.app/api?username=naubaneJky&theme=transparent&count_private=true&border_radius=10&show_icons=true&locale=en" alt="NaubaneJky's GitHub Stats" />
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=NaubaneJky&theme=transparent&count_private=true&border_radius=10&locale=en" alt="NaubaneJky" />
-  <img width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaubaneJky&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="NaubaneJky's Most Used Languages" />
-</div>
-
-<br><br>
-
-<div align=center>
-    <h2>🔝 Top Contributed Repo</h2>
-    <img width=500 src="https://github-contributor-stats.vercel.app/api?username=NaubaneJky&limit=5&theme=transparent&border_radius=10&combine_all_yearly_contributions=true" />
-</div>
-
-<br><br>
-
-<picture align=center>
-    <h2>🎮 My GitHub Activity</h2><br>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NaubaneJky/NaubaneJky/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NaubaneJky/NaubaneJky/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/NaubaneJky/NaubaneJky/output/pacman-contribution-graph.svg">
-</picture>
-
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <div align=center>
